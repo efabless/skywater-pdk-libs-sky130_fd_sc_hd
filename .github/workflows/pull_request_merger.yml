@@ -15,4 +15,4 @@ jobs:
           fetch-depth: '50'
 
       - name: Skywater PDK Libraries Pull Request Merger on Release Branches
-        uses: agorararmard/skywater-pdk-modules-pull-request-backporter-action@main
+        uses: google/skywater-pdk-actions@main
